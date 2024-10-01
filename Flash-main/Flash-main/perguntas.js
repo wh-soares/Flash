@@ -1,66 +1,66 @@
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'CIÊNCIAS',
+    'Qual é a formúla química da água?',
+    'H²O?'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'CIÊNCIAS',
+    'No que se refere a Primeira Lei de Newton?',
+    'Todo corpo em repouso ou em movimento tende a ficar em seu estado de movimento á não ser que sofra uma força externa'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'CIÊNCIAS',
+    'Qual o livro que Charles Darwin escreveu e mudou a forma como vemos a evolução ?',
+    'A Origem das Especíes'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'CIÊCIAS',
+    'Qual reino pertence a raposa?',
+    'Reino Animallia'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'CIÊNCIAS',
+    'Do que são formadas as nebulosas?',
+    'Hidrogênio, poeira cósmisca  plasma?'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'CIÊNCIAS',
+    'Como é denomidada uma molécula orgânica que só apresenta Hidrogênio e Carbono?',
+    'Hidrocarboneto'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'DC ou Marvel?',
+    'Á qual das duas pertence o Homem-Areia?',
+    'Marvel'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'DC ou Marvel?',
+    'Á quem pertence o Homem-Aranha?',
+    'Marvel'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'DC ou Marvel',
+    'Quem é o melhor vilão entre as duas?',
+    'Coringa (DC)'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'DC ou Marvel?',
+    'Á quem pertence o vilão denomidado Duas Caras?',
+    'DC'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'DC ou Marvel?',
+    'Á quem pertence o anti-herói chamado de "Pacificador"?',
+    'DC'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'DC ou Marvel?',
+    'A frase "Ai eu eu descansaria num Universo Agradecido" foi dita por?',
+    'Vilão da Marvel, Thanos'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
+    'Qual é o filme de Terror?',
+    '""?',
     'edita?'
 )
 criaCartao(
