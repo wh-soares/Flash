@@ -89,14 +89,14 @@ criaCartao(
     'Vingadores, Ultimato'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'JOGOS',
+    'Qual é o personagem principal de GTA San Andreas?',
+    'O famoso Carl Johnson (CJ)'
 )
 criaCartao(
-    'Edita?',
-    'edita?',
-    'edita?'
+    'JOGOS',
+    'Qual jogo do Mario mais conhecido?',
+    ''
 )
 criaCartao(
     'Edita?',
